@@ -16,7 +16,7 @@ public class SwiggyPro {
             String name;
             String address;
             long number;
-            System.out.println("Enter the name");
+            System.out.println("Enter the Name");
             name=in.nextLine();
             System.out.println("Enter the Number");
             number=in.nextLong();
